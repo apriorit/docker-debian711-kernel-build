@@ -26,3 +26,4 @@ RUN apt-get -y 	install \
                 libelf-dev \
                 asciidoc \
                 binutils-dev
+		packaging-dev
