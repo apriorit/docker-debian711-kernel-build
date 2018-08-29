@@ -25,5 +25,5 @@ RUN apt-get -y 	install \
                 libncurses5-dev \
                 libelf-dev \
                 asciidoc \
-                binutils-dev
+                binutils-dev \
 		packaging-dev
